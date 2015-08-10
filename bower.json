@@ -1,0 +1,7 @@
+{
+  "name": "Angular2.0 App",
+  "version": "0.0.0",
+  "dependencies": {
+    "Font-Awesome": "~4.4.0"
+  }
+}
